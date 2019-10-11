@@ -1,0 +1,13 @@
+{
+    "element": "some element",
+    "items": [
+        1,
+        "true",
+        "thing"
+    ],
+    "nested": {
+        "dfadf": "1080",
+        "adfgf": "4"
+    },
+    "nested2": "cosas"
+}
